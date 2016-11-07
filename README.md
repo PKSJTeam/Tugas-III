@@ -27,11 +27,14 @@ OS yang digunakan
 
 Tools yang digunakan :
 
-![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/ubuntu1.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/cuckoo-logo.jpg)
 
 a. Cuckoo Sandbox adalah salah satu sistem atau perangkat yang digunakan untuk menganalisis sebuah suspect dalam bentuk malware, atau bahasa keren nya Malware Analysis Research Toolkit (MART). Cuckoo Sandbox merupakan perangkat yang gratis atau dalam bahasa lain Open Source. Cara kerja dari Cuckoo Sandbox ini adalah dengan memantau segala kejadian yang mungkin di ditimbulkan oleh sebuah malware yang secara sengaja di run di sebuah environtment yang terisolasi.
 
-![alt tag](https://github.com/PKSJTeam/Tugas-II/blob/master/Tools/ubuntu1.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/virtualbox.png)
 
 b. Virtual Box merupakan software virtualisasi yang digunakan untuk menginstal OS “Operating System” atau bahasa indonesianya Sistem Operasi. Jadi kalian semua dapat menginstal sistem operasi lain di dalam sistem operasi yang kalian punya, begituu. Misalnya anda memiliki sistem operasi Ms. Windows yang terpasang pada komputer anda, maka anda dapat pula menjalankan sistem operasi lain pada Ms.Windows yang anda punya.
 
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/windows_xp-100154667-large.png)
+
+c. Windows xp adalah salah satu OS atau salah satu sistem operasi berbasiskan grafis, dibuat oleh Perusahaan Microsoft untuk dapat digunakan pada sebuah komputer, contohnya seperti komputer pribadi maupun rumahan, komputer untuk kegiatan bisnis, notebook, dan pusat media atau Media Center.
