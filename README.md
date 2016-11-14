@@ -43,25 +43,25 @@ c. Windows xp adalah salah satu OS atau salah satu sistem operasi berbasiskan gr
 Langkah-langkah installasi :
 a. Ketikan perintah  sudo apt-get install python python-pip python-dev libffi-dev libssl-dev libxml2-dev libxslt1-dev libjpeg-dev pada terminal untuk installasi packages
 
-![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/pythonnew1.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/pythonnew1.JPG)
 
 b. ketikan perintah sudo setcap cap_net_raw,cap_net_admin=eip /usr/sbin/tcpdump untuk konfigurasi tcpdump
 
-![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/next after tcpdump.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/next after tcpdump.JPG)
 
 c. lakukan verifykasi dengan mengetikkan sintax berikut getcap /usr/sbin/tcpdump
 
-![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/getcap.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/getcap.JPG)
 
 d. Installing cuckoo sandbox dengan sintax berikut  git clone git://github.com/cuckoosandbox/cuckoo.git
 
 e. useradd cuckoo di gunakan untuk membuat user baru untuk cuckoo 
 
-![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/adduser.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/adduser.JPG)
 
 f. Installing virtual box dengan sintax sudo apt-get install virtualbox
 
-![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/virtualbox.jpg)
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/virtualbox.JPG)
 
 g. lakukan perintah berikut untuk menambahkan user cuckoo ke virtualbox sudo usermod -a -G vboxusers cuckoo
 
