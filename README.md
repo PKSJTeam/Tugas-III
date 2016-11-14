@@ -38,3 +38,4 @@ b. Virtual Box merupakan software virtualisasi yang digunakan untuk menginstal O
 ![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/windows_xp-100154667-large.png)
 
 c. Windows xp adalah salah satu OS atau salah satu sistem operasi berbasiskan grafis, dibuat oleh Perusahaan Microsoft untuk dapat digunakan pada sebuah komputer, contohnya seperti komputer pribadi maupun rumahan, komputer untuk kegiatan bisnis, notebook, dan pusat media atau Media Center.
+
